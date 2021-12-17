@@ -36,7 +36,7 @@ body {
      /* border: 1px solid white; */
 }
 
-input[type="email"] {
+input[type="text"] {
     width: 200%;
     height: 30px;
     border-radius: 5px;
@@ -64,4 +64,8 @@ button[type="button"] {
     top: 30%;
     text-decoration: underline;
 
+}
+
+.forg:hover {
+    cursor: pointer;
 }
