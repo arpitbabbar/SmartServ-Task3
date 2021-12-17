@@ -24,8 +24,6 @@ body {
     height: 25%;
     background-size: contain;
     background-repeat: no-repeat;
-    /* float: left; */
-    /* border: 1px solid black; */
 }
 
 .form {
@@ -33,7 +31,6 @@ body {
     width: 30%;
      left: 20%;
      top: 25%;
-     /* border: 1px solid white; */
 }
 
 input[type="text"] {
@@ -54,7 +51,6 @@ button[type="button"] {
     width: 200%;
     height: 40px;
     margin-top: 10px;
-    /* margin-top: 25px; */
 }
 
 .forg {
