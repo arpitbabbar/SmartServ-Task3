@@ -51,6 +51,12 @@
             alert("Enter Exact Password to proced further");
         }
     }
+
+    function sendmail(){
+        window.location.href = "mailto:support@smartserv.io?subject=Reset-Password&body=Please Reset my Password";
+
+    }
+
       </script>
     <div class="mainDiv">
       <div class="logo"></div>
@@ -79,7 +85,7 @@
         </form>
           </div>
           <div class="forg">
-              <p>Forgot your password?</p>
+              <p onclick="sendmail()">Forgot your password?</p>
           </div>
       </div>
     </div>
