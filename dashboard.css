@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(235, 229, 229);
+}
+
+.card {
+    border-left: 10px solid rgb(0, 128, 122);
+}
+
+.comp {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.rev-1 {
+    font-size: 20px;
+    font-weight: bolder;
+}
